@@ -44,4 +44,8 @@ cd pdf-qa-assistant
 5. Upload a PDF document that you would like to ask a question,or sumaarize about
 6. Ask a question in the chat input section and wait for a response
 
+##Demo
+
+![image](https://github.com/user-attachments/assets/ab7726d8-1506-4d7b-a35f-4bc213ebcd16)
+
 
