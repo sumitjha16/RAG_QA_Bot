@@ -1,0 +1,30 @@
+version: '3.9'
+
+services:
+  backend:
+    build:
+      context: ./Backend # Adjusted directory name
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./Backend:/app
+    networks:
+      - my-ragnet
+    env_file:
+      - Backend/.env
+
+  frontend:
+    build:
+      context: ./Frontend
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./Frontend:/app
+    depends_on:
+      - backend
+    networks:
+      - my-ragnet
+
+networks:
+  my-ragnet:
+    external: false
