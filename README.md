@@ -5,7 +5,7 @@ PDF QA Assistant is an interactive Streamlit app that allows users to upload PDF
 
 ## Demo
 
-![image](https://github.com/user-attachments/assets/ab7726d8-1506-4d7b-a35f-4bc213ebcd16)
+
 
 ![image](https://github.com/user-attachments/assets/af04b635-ec6d-4d52-9c00-dcb2244caa89)
 
@@ -52,9 +52,12 @@ cd pdf-qa-assistant
     docker compose up
     ```
 
-4. Navigate to the frontend in your browser: [http://localhost:8501/](http://localhost:8501/)
-5. Upload a PDF document that you would like to ask a question,or sumaarize about
-6. Ask a question in the chat input section and wait for a response
+    Or if in case you don't have docker or facing any issue then you can run backend and frontend individually like this
+   ![image](https://github.com/user-attachments/assets/ab7726d8-1506-4d7b-a35f-4bc213ebcd16)
+
+5. Navigate to the frontend in your browser: [http://localhost:8501/](http://localhost:8501/)
+6. Upload a PDF document that you would like to ask a question,or sumaarize about
+7. Ask a question in the chat input section and wait for a response
 
 
 
