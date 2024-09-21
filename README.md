@@ -48,4 +48,12 @@ cd pdf-qa-assistant
 
 ![image](https://github.com/user-attachments/assets/ab7726d8-1506-4d7b-a35f-4bc213ebcd16)
 
+![image](https://github.com/user-attachments/assets/af04b635-ec6d-4d52-9c00-dcb2244caa89)
+
+![image](https://github.com/user-attachments/assets/9d32314a-e371-4fe3-9252-996ed3a41ba5)
+
+![image](https://github.com/user-attachments/assets/ca6d3caa-0658-444e-a91d-eac5dc750a6d)
+
+
+
 
